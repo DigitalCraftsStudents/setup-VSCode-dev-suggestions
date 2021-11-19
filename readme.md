@@ -17,7 +17,7 @@ So I am not going to reinvent this wheel. Go read the VS Code User Interface Doc
 
 After installing VS Code, it is ready to go. However, here are a few things to help with optimize the workflow, organization, and experience.
 
-### Command Line Launch
+### Command Line Launch (macOS Only)
 
 It is handy to launch VS Code directly from the CLI (Command Line Interface) or Terminal app. Here is what to do.
 
